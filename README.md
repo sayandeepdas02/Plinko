@@ -6,6 +6,11 @@ This project demonstrates **game logic, physics simulation, and full-stack struc
 
 ---
 
+![Swift Invoice Banner](https://img.shields.io/badge/MERN-Stack-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-orange)
+
+---
+
+
 ## 🚀 Features
 
 - 🎮 Interactive Plinko gameplay
